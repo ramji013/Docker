@@ -11,3 +11,5 @@ and container is running version
 
 for an image we can run multiple container.
 
+
+Once we install docker desktop, it install Docker client and Docker Daemon. Once we execute any command the command will reach to Docker Daemon which is responsible to maintain containers, local images and docker registry.
